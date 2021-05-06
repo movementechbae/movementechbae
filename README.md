@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @movementechbae
-- 👀 I’m interested in ... M O V E M E N T
+- 👀 I’m interested in M O V E M E N T
 - 🌱 I’m currently learning ... {exclude: none}
 - 💞️ I’m looking to collaborate on ... W/E
 - 📫 How to reach me ... coy@coykindred.com
